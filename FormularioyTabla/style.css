@@ -15,7 +15,7 @@ img{
 
 /*HEADER*/
 .header{
-    background-color: rgb(107, 165, 165);
+    background-color: rgb(234, 163, 157);
     display: flex;
     flex-direction: row;
     align-items: center;
